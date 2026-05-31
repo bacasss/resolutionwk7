@@ -164,5 +164,3 @@ app = QApplication(sys.argv)
 window = pomodoro() # make an instance of our widget
 window.show()
 app.exec()
-
-#not a real pomodoro, progress bar and progress % going wrong way, timer too small, 
