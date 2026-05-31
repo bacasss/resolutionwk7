@@ -23,13 +23,17 @@ Persists timer data with JSON.
 SCREENSHOTS:
 
 Normal work mode:
+
 <img width="515" height="412" alt="Screenshot 2026-05-31 203047" src="https://github.com/user-attachments/assets/3772ebab-6fa6-47bb-bea7-d8535ec8bda5" />
 
 Work mode ended:
+
 <img width="515" height="401" alt="Screenshot 2026-05-31 203059" src="https://github.com/user-attachments/assets/dda757c7-77bc-4488-be50-45e3d4c9d220" />
 
 Normal break mode:
+
 <img width="528" height="414" alt="Screenshot 2026-05-31 203454" src="https://github.com/user-attachments/assets/2590a882-cd0c-4cf8-8c0b-eab3fbb05927" />
 
 Break mode over:
+
 <img width="534" height="412" alt="Screenshot 2026-05-31 203616" src="https://github.com/user-attachments/assets/3f75a989-823c-43ad-a94f-dde6fe7e26df" />
